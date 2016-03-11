@@ -10,3 +10,5 @@ Shows the library ID and the dependant libraries in a editable table. Table edit
 
 For a detailed dependancy listing look at this https://code.google.com/p/macdependency
 
+
+![](mainscreen.png?raw=true "")
